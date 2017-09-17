@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         UKABestiller
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  Bestiller oktoberfestbilletter
 // @author       Johannes Kvamme
 // @match        https://uka.no/program/377-oktoberfest/377/billetter
