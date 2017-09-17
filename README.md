@@ -1,5 +1,5 @@
 # usrscript
-Laget: 17.09.2017
+Laget: 17.09.2017  
 Fyller ut skjema tilhørende UKA.    
 Brukes på Tampermonkey-plugin.  
   
