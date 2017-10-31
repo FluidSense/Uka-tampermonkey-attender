@@ -1,6 +1,6 @@
 # usrscript
 Laget: 17.09.2017  
-Fyller ut skjema tilhørende UKA.    
+Fyller ut billettjøpskjema tilhørende UKA.    
 Brukes på Tampermonkey-plugin.  
   
 ### How-to  
